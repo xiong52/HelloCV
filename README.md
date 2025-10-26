@@ -16,4 +16,8 @@
 3.[构建的有关过程](https://www.yuque.com/u59681589/gfp4qw/bgbgeilw329hfgh2)
 
 第三周考核任务：
-第三章的任务依旧分为学习任务和实践任务两大部分
+第三章的任务依旧分为学习任务和实践任务两大部分，其中学习任务就是学习OpenCV，实践任务就是识别一段红绿灯视频中的颜色：
+
+学习内容：OpenCV：[第三周学习任务](https://www.yuque.com/u59681589/gfp4qw/cetrefvtlc11u1s7)
+
+实践任务：识别红绿灯：[识别颜色](https://www.yuque.com/u59681589/gfp4qw/rftkk97m3sg34smx)
