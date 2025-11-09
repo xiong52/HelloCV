@@ -21,3 +21,6 @@
 学习内容：OpenCV：[第三周学习任务](https://www.yuque.com/u59681589/gfp4qw/cetrefvtlc11u1s7)
 
 实践任务：识别红绿灯：[识别颜色](https://www.yuque.com/u59681589/gfp4qw/rftkk97m3sg34smx)
+
+第四周考核任务：
+第四周的任务只有学习任务：学习ROS2和Gazebo，由于鱼神给的教程包含了这两个部分，所以我就写在了同一篇语雀中：[第四周学习任务](https://www.yuque.com/u59681589/gfp4qw/okuev6de4t1c69n4)
